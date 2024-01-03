@@ -11,5 +11,5 @@ https://add101.github.io/Bootstrap-Portfolio/
 
 ## Screenshot:
 
-![my screenshot](assets/CodeQuiz-Screenshot.jpg)
+![my screenshot](images/CSS_Portfolio-Screenshot.jpg)
 
